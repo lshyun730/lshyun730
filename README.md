@@ -3,6 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFD159&height=150&section=header&text=Welcome%20To%20My%20Github&fontSize=50&animation=scaleIn&&fontAlignY=60)
 
 
+  <br>
+  
+✋ Hi there,
+I develop website using JavaScript and TypeScript. <br>
+I am very active, I enjoy hiking, exercise and drive 🏔 🚗 <br>
+I hope to develop every beautiful things ✨ <br>
+  
+<br>
   
 ### 🎵 SNS
 
